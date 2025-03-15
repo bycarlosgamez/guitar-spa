@@ -37,7 +37,7 @@ export const Navbar = () => {
             </NavLink>
 
             <NavLink
-              to='/'
+              to='/login'
               className='middle none center mr-4 rounded-lg bg-white
                py-3 px-6 ml-6 font-sans text-xs font-bold uppercase text-slate-900 shadow-md transition-all focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none'
             >
